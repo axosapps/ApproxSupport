@@ -1,9 +1,9 @@
 ## Welcome to Approx
 
 This is a different quiz game...
-Each game has 8 question from different categories, all questions have a number as the answer, there are no options to choose from, you have to type the number you think the right answer is.
-The game is played online by 2 players, each game has two rounds of four questions, the first player (creator of the game) answers the questions of the first round, waits until the second player answers them also, then the first player can play the second round, and then wait again until the opponent plays the second round, to end the game.
-The player that has answered the closest number to the right answer increases his score by 1. That means, you don't have to know the right answer for every question to win, you can guess and with a little bit of luck you will be close to the right answer.
+Each game has 5 question from different categories, all questions have a number as the answer, there are no options to choose from, you have to type the number you think the right answer is.
+The game is played online by 2 players, each game has one round of five questions, the first player (creator of the game) answers the questions of the first round, waits until the second player answers them also, to end the game.
+The player that has answered the closest number to the right answer increases his score by 1. That means, you don't have to know the right answer for every question to win, you can guess and with a little bit of luck you will be closer to the right answer.
 
 You get: 
 50 points when you win a game
